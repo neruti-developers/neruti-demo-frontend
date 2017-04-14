@@ -1,6 +1,8 @@
 # NerutiDemo (Frontend) - Sentiment Analysis Map Visualisation (SAMV)
 >   by Neruti Developers
 
+![sentiment analysis image](/images/sentiment-analysis-malaysia.png)
+
 This application(SAMV) is for demo purpose only due to limited capabilities in the following areas:
 
   - Word Standardization 
